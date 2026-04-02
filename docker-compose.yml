@@ -1,0 +1,56 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile.backend
+    container_name: munshot-backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+      - backend_processed_data:/app/data/processed
+    environment:
+      - GEMINI_API_KEY=${GEMINI_API_KEY:-}
+      - DATA_DIR=/app/data/processed
+      - SAMPLE_DATA_DIR=/app/data/sample
+      - PYTHONUNBUFFERED=1
+    restart: unless-stopped
+    networks:
+      - munshot-network
+    healthcheck:
+      test: ["CMD", "python", "-c", "import httpx; httpx.get('http://localhost:8000/api/health')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
+
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile.frontend
+    container_name: munshot-frontend
+    ports:
+      - "3000:80"
+    environment:
+      - VITE_API_URL=http://localhost:8000/api
+    depends_on:
+      backend:
+        condition: service_healthy
+    restart: unless-stopped
+    networks:
+      - munshot-network
+    healthcheck:
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://localhost/"]
+      interval: 30s
+      timeout: 3s
+      retries: 3
+
+networks:
+  munshot-network:
+    driver: bridge
+
+volumes:
+  backend_processed_data:
+    driver: local
