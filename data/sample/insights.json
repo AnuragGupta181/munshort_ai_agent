@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Nasher Miles leads in customer sentiment despite not being the cheapest",
+    "description": "Nasher Miles achieves the highest overall sentiment score (0.40) across all brands. This suggests strong product-market fit where customers feel they receive value proportional to or exceeding the price paid. Their strength in wheels and handle aspects particularly stands out.",
+    "supporting_data": [
+      "Sentiment score: 0.40 vs category average 0.29",
+      "Average rating: 4.4",
+      "Price band: premium"
+    ],
+    "affected_brands": [
+      "Nasher Miles"
+    ],
+    "insight_type": "competitive_advantage"
+  },
+  {
+    "title": "Aristocrat's heavy discounting (51%) isn't translating to better sentiment",
+    "description": "Despite offering the highest average discount at 51%, Aristocrat ranks lower in customer sentiment (0.21). This indicates that price reduction alone doesn't compensate for product quality gaps. The brand may be caught in a discount dependency cycle where deep discounts set low quality expectations.",
+    "supporting_data": [
+      "Average discount: 51%",
+      "Sentiment score: 0.21",
+      "Average price after discount: \u20b91326"
+    ],
+    "affected_brands": [
+      "Aristocrat"
+    ],
+    "insight_type": "pricing_strategy"
+  },
+  {
+    "title": "Zipper quality is the category's Achilles heel \u2014 Nasher Miles leads but gap is narrow",
+    "description": "Across all brands, zipper quality receives some of the most polarized feedback. Even top-performing brands struggle with zipper durability perception. This represents an opportunity for any brand to differentiate by investing in premium zipper components (YKK or equivalent) and communicating this in product listings.",
+    "supporting_data": [
+      "Best zipper sentiment: 0.92",
+      "Worst zipper sentiment: -0.06",
+      "Category average: 0.43"
+    ],
+    "affected_brands": [
+      "Nasher Miles",
+      "American Tourister"
+    ],
+    "insight_type": "product_gap"
+  },
+  {
+    "title": "Safari offers the best value proposition in the budget segment",
+    "description": "Among budget and value-tier brands, Safari achieves the highest sentiment (0.27) while maintaining competitive pricing (avg \u20b91235). Price-conscious buyers rate Safari higher than peers, suggesting the brand successfully delivers perceived quality above its price tier.",
+    "supporting_data": [
+      "Sentiment: 0.27 (best in budget/value tier)",
+      "Average price: \u20b91235",
+      "Price band: budget"
+    ],
+    "affected_brands": [
+      "Safari"
+    ],
+    "insight_type": "value_analysis"
+  },
+  {
+    "title": "Wheel quality strongly correlates with overall satisfaction \u2014 American Tourister dominates",
+    "description": "Analysis shows that wheel quality sentiment has the strongest correlation with overall product sentiment. Brands that score high on wheels consistently score higher overall. American Tourister leads the category in wheel quality perception, which likely contributes to their strong overall sentiment. Brands looking to improve customer satisfaction should prioritize wheel mechanism upgrades.",
+    "supporting_data": [
+      "Wheel quality leader: American Tourister",
+      "Correlation with overall sentiment: high",
+      "Most mentioned aspect in positive reviews: wheels and durability"
+    ],
+    "affected_brands": [
+      "American Tourister",
+      "Nasher Miles"
+    ],
+    "insight_type": "customer_driver"
+  }
+]

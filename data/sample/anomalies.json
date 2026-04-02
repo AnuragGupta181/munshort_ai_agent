@@ -1,0 +1,65 @@
+[
+  {
+    "type": "sentiment_rating_divergence",
+    "severity": "warning",
+    "brand": "Safari",
+    "product_title": "Safari Polycarbonate Check-in Luggage Trolley Bag 65cm - Red",
+    "description": "Product has 4.4 stars but sentiment score is only 0.04. Reviews suggest underlying quality concerns despite high rating."
+  },
+  {
+    "type": "sentiment_rating_divergence",
+    "severity": "warning",
+    "brand": "Safari",
+    "product_title": "Safari ABS Cabin Luggage Trolley Bag 55cm - Wine Red",
+    "description": "Product has 4.0 stars but sentiment score is only 0.07. Reviews suggest underlying quality concerns despite high rating."
+  },
+  {
+    "type": "suspicious_pricing",
+    "severity": "info",
+    "brand": "Safari",
+    "product_title": "Safari Polycarbonate Small Luggage Trolley Bag 75cm - Red",
+    "description": "Discount of 51.6% (\u20b92900 \u2192 \u20b91404) suggests potentially inflated list price."
+  },
+  {
+    "type": "suspicious_pricing",
+    "severity": "info",
+    "brand": "Aristocrat",
+    "product_title": "Aristocrat Polyester Check-in Luggage Trolley Bag 55cm - Crimson",
+    "description": "Discount of 57.5% (\u20b93200 \u2192 \u20b91360) suggests potentially inflated list price."
+  },
+  {
+    "type": "suspicious_pricing",
+    "severity": "info",
+    "brand": "Aristocrat",
+    "product_title": "Aristocrat Polycarbonate Cabin Luggage Trolley Bag 50cm - Crimson",
+    "description": "Discount of 52.4% (\u20b93700 \u2192 \u20b91761) suggests potentially inflated list price."
+  },
+  {
+    "type": "suspicious_pricing",
+    "severity": "info",
+    "brand": "Aristocrat",
+    "product_title": "Aristocrat Nylon Medium Luggage Trolley Bag 50cm - Crimson",
+    "description": "Discount of 55.0% (\u20b93200 \u2192 \u20b91440) suggests potentially inflated list price."
+  },
+  {
+    "type": "suspicious_pricing",
+    "severity": "info",
+    "brand": "Aristocrat",
+    "product_title": "Aristocrat Polyester Cabin Luggage Trolley Bag 50cm - Navy",
+    "description": "Discount of 55.1% (\u20b92200 \u2192 \u20b9988) suggests potentially inflated list price."
+  },
+  {
+    "type": "suspicious_pricing",
+    "severity": "info",
+    "brand": "Aristocrat",
+    "product_title": "Aristocrat Polyester Cabin Luggage Trolley Bag 55cm - Grey",
+    "description": "Discount of 54.1% (\u20b91800 \u2192 \u20b9826) suggests potentially inflated list price."
+  },
+  {
+    "type": "suspicious_pricing",
+    "severity": "info",
+    "brand": "Aristocrat",
+    "product_title": "Aristocrat ABS Medium Luggage Trolley Bag 50cm - Grey",
+    "description": "Discount of 50.7% (\u20b91800 \u2192 \u20b9887) suggests potentially inflated list price."
+  }
+]

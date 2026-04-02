@@ -1,0 +1,2079 @@
+[
+  {
+    "asin": "B0V3A3ZMF8",
+    "title": "Safari Hard Shell ABS+PC Cabin Luggage Trolley Bag 55cm - Teal",
+    "brand": "Safari",
+    "price": 1331,
+    "list_price": 2200,
+    "discount_pct": 39.5,
+    "rating": 3.9,
+    "review_count": 598,
+    "sentiment_score": 0.35,
+    "review_synthesis": "Customers generally appreciate this Safari product. Key positives include affordable pricing and lightweight design. Common concerns revolve around zipper quality issues and wheels break easily.",
+    "complaint_themes": [
+      "Zipper quality issues",
+      "Wheels break easily"
+    ],
+    "appreciation_themes": [
+      "Affordable pricing",
+      "Lightweight design"
+    ],
+    "trust_score": 68.5,
+    "aspects": {
+      "wheels": -0.25,
+      "handle": 0.53,
+      "material": 0.16,
+      "zipper": 0.19,
+      "size_space": 0.38,
+      "durability": 0.3
+    },
+    "category": "Cabin",
+    "size": "55cm / 20in"
+  },
+  {
+    "asin": "B0BIKCIDKW",
+    "title": "Safari Polycarbonate Cabin Luggage Trolley Bag 50cm - Wine Red",
+    "brand": "Safari",
+    "price": 1375,
+    "list_price": 2600,
+    "discount_pct": 47.1,
+    "rating": 4.1,
+    "review_count": 589,
+    "sentiment_score": 0.12,
+    "review_synthesis": "Customers generally have mixed feelings about this Safari product. Key positives include lightweight design and affordable pricing. Common concerns revolve around thin material and zipper quality issues.",
+    "complaint_themes": [
+      "Thin material",
+      "Zipper quality issues"
+    ],
+    "appreciation_themes": [
+      "Lightweight design",
+      "Affordable pricing"
+    ],
+    "trust_score": 69.6,
+    "aspects": {
+      "wheels": -0.25,
+      "handle": 0.67,
+      "material": 0.37,
+      "zipper": 0.2,
+      "size_space": 0.43,
+      "durability": 0.06
+    },
+    "category": "Cabin",
+    "size": "50cm / 18in"
+  },
+  {
+    "asin": "B0OC6UZHR5",
+    "title": "Safari Polypropylene Medium Luggage Trolley Bag 75cm - Teal",
+    "brand": "Safari",
+    "price": 792,
+    "list_price": 1500,
+    "discount_pct": 47.2,
+    "rating": 4.1,
+    "review_count": 207,
+    "sentiment_score": 0.48,
+    "review_synthesis": "Customers generally appreciate this Safari product. Key positives include affordable pricing and good color options. Common concerns revolve around zipper quality issues and wheels break easily.",
+    "complaint_themes": [
+      "Zipper quality issues",
+      "Wheels break easily"
+    ],
+    "appreciation_themes": [
+      "Affordable pricing",
+      "Good color options"
+    ],
+    "trust_score": 80.7,
+    "aspects": {
+      "wheels": 0.33,
+      "handle": 0.2,
+      "material": 0.09,
+      "zipper": 0.32,
+      "size_space": 0.21,
+      "durability": 0.38
+    },
+    "category": "Medium",
+    "size": "75cm / 28in"
+  },
+  {
+    "asin": "B02PCN9T84",
+    "title": "Safari Polypropylene Check-in Luggage Trolley Bag 75cm - Grey",
+    "brand": "Safari",
+    "price": 1897,
+    "list_price": 3500,
+    "discount_pct": 45.8,
+    "rating": 3.9,
+    "review_count": 637,
+    "sentiment_score": 0.38,
+    "review_synthesis": "Customers generally appreciate this Safari product. Key positives include affordable pricing and good color options. Common concerns revolve around thin material and zipper quality issues.",
+    "complaint_themes": [
+      "Thin material",
+      "Zipper quality issues"
+    ],
+    "appreciation_themes": [
+      "Affordable pricing",
+      "Good color options"
+    ],
+    "trust_score": 55.5,
+    "aspects": {
+      "wheels": -0.16,
+      "handle": 0.24,
+      "material": 0.13,
+      "zipper": 0.29,
+      "size_space": 0.35,
+      "durability": 0.4
+    },
+    "category": "Check-in",
+    "size": "75cm / 28in"
+  },
+  {
+    "asin": "B01T2TALA7",
+    "title": "Safari Hard Shell ABS+PC Cabin Luggage Trolley Bag 75cm - Wine Red",
+    "brand": "Safari",
+    "price": 1005,
+    "list_price": 1700,
+    "discount_pct": 40.9,
+    "rating": 3.9,
+    "review_count": 779,
+    "sentiment_score": 0.19,
+    "review_synthesis": "Customers generally have mixed feelings about this Safari product. Key positives include lightweight design and affordable pricing. Common concerns revolve around zipper quality issues and wheels break easily.",
+    "complaint_themes": [
+      "Zipper quality issues",
+      "Wheels break easily"
+    ],
+    "appreciation_themes": [
+      "Lightweight design",
+      "Affordable pricing"
+    ],
+    "trust_score": 90.1,
+    "aspects": {
+      "wheels": 0.06,
+      "handle": 0.46,
+      "material": -0.06,
+      "zipper": -0.08,
+      "size_space": 0.35,
+      "durability": 0.69
+    },
+    "category": "Cabin",
+    "size": "75cm / 28in"
+  },
+  {
+    "asin": "B0ZOYN6QIC",
+    "title": "Safari Polycarbonate Medium Luggage Trolley Bag 65cm - Grey",
+    "brand": "Safari",
+    "price": 950,
+    "list_price": 1500,
+    "discount_pct": 36.7,
+    "rating": 3.8,
+    "review_count": 818,
+    "sentiment_score": 0.51,
+    "review_synthesis": "Customers generally appreciate this Safari product. Key positives include good color options and lightweight design. Common concerns revolve around zipper quality issues and thin material.",
+    "complaint_themes": [
+      "Zipper quality issues",
+      "Thin material"
+    ],
+    "appreciation_themes": [
+      "Good color options",
+      "Lightweight design"
+    ],
+    "trust_score": 55.8,
+    "aspects": {
+      "wheels": 0.06,
+      "handle": 0.25,
+      "material": 0.03,
+      "zipper": -0.21,
+      "size_space": -0.06,
+      "durability": 0.47
+    },
+    "category": "Medium",
+    "size": "65cm / 24in"
+  },
+  {
+    "asin": "B03GDPPQ0Y",
+    "title": "Safari Polycarbonate Check-in Luggage Trolley Bag 65cm - Red",
+    "brand": "Safari",
+    "price": 846,
+    "list_price": 1400,
+    "discount_pct": 39.6,
+    "rating": 4.4,
+    "review_count": 112,
+    "sentiment_score": 0.04,
+    "review_synthesis": "Customers generally have mixed feelings about this Safari product. Key positives include good color options and lightweight design. Common concerns revolve around zipper quality issues and wheels break easily.",
+    "complaint_themes": [
+      "Zipper quality issues",
+      "Wheels break easily"
+    ],
+    "appreciation_themes": [
+      "Good color options",
+      "Lightweight design"
+    ],
+    "trust_score": 94.4,
+    "aspects": {
+      "wheels": -0.17,
+      "handle": 0.19,
+      "material": 0.04,
+      "zipper": -0.2,
+      "size_space": 0.37,
+      "durability": 0.28
+    },
+    "category": "Check-in",
+    "size": "65cm / 24in"
+  },
+  {
+    "asin": "B0874FRHOC",
+    "title": "Safari ABS Cabin Luggage Trolley Bag 55cm - Wine Red",
+    "brand": "Safari",
+    "price": 960,
+    "list_price": 1600,
+    "discount_pct": 40.0,
+    "rating": 4.0,
+    "review_count": 472,
+    "sentiment_score": 0.07,
+    "review_synthesis": "Customers generally have mixed feelings about this Safari product. Key positives include affordable pricing and good color options. Common concerns revolve around thin material and zipper quality issues.",
+    "complaint_themes": [
+      "Thin material",
+      "Zipper quality issues"
+    ],
+    "appreciation_themes": [
+      "Affordable pricing",
+      "Good color options"
+    ],
+    "trust_score": 70.2,
+    "aspects": {
+      "wheels": 0.25,
+      "handle": 0.44,
+      "material": 0.25,
+      "zipper": 0.11,
+      "size_space": 0.29,
+      "durability": 0.49
+    },
+    "category": "Cabin",
+    "size": "55cm / 20in"
+  },
+  {
+    "asin": "B0VS4F8CGV",
+    "title": "Safari ABS Small Luggage Trolley Bag 75cm - Teal",
+    "brand": "Safari",
+    "price": 1482,
+    "list_price": 2900,
+    "discount_pct": 48.9,
+    "rating": 3.8,
+    "review_count": 717,
+    "sentiment_score": 0.26,
+    "review_synthesis": "Customers generally have mixed feelings about this Safari product. Key positives include good color options and lightweight design. Common concerns revolve around zipper quality issues and thin material.",
+    "complaint_themes": [
+      "Zipper quality issues",
+      "Thin material"
+    ],
+    "appreciation_themes": [
+      "Good color options",
+      "Lightweight design"
+    ],
+    "trust_score": 82.0,
+    "aspects": {
+      "wheels": -0.3,
+      "handle": 0.33,
+      "material": -0.06,
+      "zipper": -0.1,
+      "size_space": 0.85,
+      "durability": 0.13
+    },
+    "category": "Small",
+    "size": "75cm / 28in"
+  },
+  {
+    "asin": "B0Q77AWUDT",
+    "title": "Safari Polycarbonate Check-in Luggage Trolley Bag 50cm - Charcoal",
+    "brand": "Safari",
+    "price": 1175,
+    "list_price": 2200,
+    "discount_pct": 46.6,
+    "rating": 4.0,
+    "review_count": 713,
+    "sentiment_score": 0.24,
+    "review_synthesis": "Customers generally have mixed feelings about this Safari product. Key positives include lightweight design and affordable pricing. Common concerns revolve around thin material and wheels break easily.",
+    "complaint_themes": [
+      "Thin material",
+      "Wheels break easily"
+    ],
+    "appreciation_themes": [
+      "Lightweight design",
+      "Affordable pricing"
+    ],
+    "trust_score": 75.2,
+    "aspects": {
+      "wheels": 0.07,
+      "handle": 0.14,
+      "material": -0.07,
+      "zipper": 0.17,
+      "size_space": 0.3,
+      "durability": 0.32
+    },
+    "category": "Check-in",
+    "size": "50cm / 18in"
+  },
+  {
+    "asin": "B0EDTJVZHW",
+    "title": "Safari Polycarbonate Check-in Luggage Trolley Bag 75cm - Grey",
+    "brand": "Safari",
+    "price": 1601,
+    "list_price": 2700,
+    "discount_pct": 40.7,
+    "rating": 3.6,
+    "review_count": 349,
+    "sentiment_score": 0.23,
+    "review_synthesis": "Customers generally have mixed feelings about this Safari product. Key positives include good color options and affordable pricing. Common concerns revolve around zipper quality issues and wheels break easily.",
+    "complaint_themes": [
+      "Zipper quality issues",
+      "Wheels break easily"
+    ],
+    "appreciation_themes": [
+      "Good color options",
+      "Affordable pricing"
+    ],
+    "trust_score": 65.6,
+    "aspects": {
+      "wheels": 0.14,
+      "handle": -0.1,
+      "material": -0.33,
+      "zipper": 0.04,
+      "size_space": 0.33,
+      "durability": 0.42
+    },
+    "category": "Check-in",
+    "size": "75cm / 28in"
+  },
+  {
+    "asin": "B04UFEL624",
+    "title": "Safari Polycarbonate Small Luggage Trolley Bag 75cm - Red",
+    "brand": "Safari",
+    "price": 1404,
+    "list_price": 2900,
+    "discount_pct": 51.6,
+    "rating": 4.2,
+    "review_count": 173,
+    "sentiment_score": 0.36,
+    "review_synthesis": "Customers generally appreciate this Safari product. Key positives include affordable pricing and good color options. Common concerns revolve around thin material and zipper quality issues.",
+    "complaint_themes": [
+      "Thin material",
+      "Zipper quality issues"
+    ],
+    "appreciation_themes": [
+      "Affordable pricing",
+      "Good color options"
+    ],
+    "trust_score": 91.0,
+    "aspects": {
+      "wheels": 0.1,
+      "handle": 0.25,
+      "material": -0.07,
+      "zipper": 0.04,
+      "size_space": 0.1,
+      "durability": 0.32
+    },
+    "category": "Small",
+    "size": "75cm / 28in"
+  },
+  {
+    "asin": "B0J2D54I3Q",
+    "title": "Aristocrat Polyester Check-in Luggage Trolley Bag 55cm - Crimson",
+    "brand": "Aristocrat",
+    "price": 1360,
+    "list_price": 3200,
+    "discount_pct": 57.5,
+    "rating": 3.8,
+    "review_count": 282,
+    "sentiment_score": 0.32,
+    "review_synthesis": "Customers generally appreciate this Aristocrat product. Key positives include decent storage space and lightweight. Common concerns revolve around material tears easily and handle durability.",
+    "complaint_themes": [
+      "Material tears easily",
+      "Handle durability"
+    ],
+    "appreciation_themes": [
+      "Decent storage space",
+      "Lightweight"
+    ],
+    "trust_score": 67.2,
+    "aspects": {
+      "wheels": -0.18,
+      "handle": 0.34,
+      "material": -0.43,
+      "zipper": 0.13,
+      "size_space": 0.15,
+      "durability": 0.6
+    },
+    "category": "Check-in",
+    "size": "55cm / 20in"
+  },
+  {
+    "asin": "B0BVM2P9E6",
+    "title": "Aristocrat Polycarbonate Check-in Luggage Trolley Bag 65cm - Grey",
+    "brand": "Aristocrat",
+    "price": 1677,
+    "list_price": 3100,
+    "discount_pct": 45.9,
+    "rating": 4.3,
+    "review_count": 325,
+    "sentiment_score": 0.31,
+    "review_synthesis": "Customers generally appreciate this Aristocrat product. Key positives include decent storage space and budget-friendly. Common concerns revolve around material tears easily and zipper breaks after few uses.",
+    "complaint_themes": [
+      "Material tears easily",
+      "Zipper breaks after few uses"
+    ],
+    "appreciation_themes": [
+      "Decent storage space",
+      "Budget-friendly"
+    ],
+    "trust_score": 62.6,
+    "aspects": {
+      "wheels": -0.11,
+      "handle": -0.16,
+      "material": 0.17,
+      "zipper": -0.19,
+      "size_space": 0.18,
+      "durability": 0.26
+    },
+    "category": "Check-in",
+    "size": "65cm / 24in"
+  },
+  {
+    "asin": "B0YLZTGXN0",
+    "title": "Aristocrat Polycarbonate Cabin Luggage Trolley Bag 50cm - Crimson",
+    "brand": "Aristocrat",
+    "price": 1761,
+    "list_price": 3700,
+    "discount_pct": 52.4,
+    "rating": 4.3,
+    "review_count": 241,
+    "sentiment_score": 0.55,
+    "review_synthesis": "Customers generally appreciate this Aristocrat product. Key positives include lightweight and decent storage space. Common concerns revolve around material tears easily and zipper breaks after few uses.",
+    "complaint_themes": [
+      "Material tears easily",
+      "Zipper breaks after few uses"
+    ],
+    "appreciation_themes": [
+      "Lightweight",
+      "Decent storage space"
+    ],
+    "trust_score": 62.0,
+    "aspects": {
+      "wheels": 0.16,
+      "handle": -0.07,
+      "material": 0.04,
+      "zipper": -0.11,
+      "size_space": 0.38,
+      "durability": 0.13
+    },
+    "category": "Cabin",
+    "size": "50cm / 18in"
+  },
+  {
+    "asin": "B0KXWD8IL3",
+    "title": "Aristocrat Nylon Medium Luggage Trolley Bag 50cm - Blue",
+    "brand": "Aristocrat",
+    "price": 1480,
+    "list_price": 2700,
+    "discount_pct": 45.2,
+    "rating": 3.4,
+    "review_count": 710,
+    "sentiment_score": -0.09,
+    "review_synthesis": "Customers generally have mixed feelings about this Aristocrat product. Key positives include lightweight and budget-friendly. Common concerns revolve around material tears easily and handle durability.",
+    "complaint_themes": [
+      "Material tears easily",
+      "Handle durability"
+    ],
+    "appreciation_themes": [
+      "Lightweight",
+      "Budget-friendly"
+    ],
+    "trust_score": 60.9,
+    "aspects": {
+      "wheels": 0.39,
+      "handle": -0.11,
+      "material": 0.17,
+      "zipper": -0.13,
+      "size_space": 0.32,
+      "durability": 0.42
+    },
+    "category": "Medium",
+    "size": "50cm / 18in"
+  },
+  {
+    "asin": "B02ZQU7EEQ",
+    "title": "Aristocrat ABS Cabin Luggage Trolley Bag 65cm - Charcoal",
+    "brand": "Aristocrat",
+    "price": 932,
+    "list_price": 1800,
+    "discount_pct": 48.2,
+    "rating": 4.1,
+    "review_count": 775,
+    "sentiment_score": 0.29,
+    "review_synthesis": "Customers generally have mixed feelings about this Aristocrat product. Key positives include budget-friendly and decent storage space. Common concerns revolve around handle durability and material tears easily.",
+    "complaint_themes": [
+      "Handle durability",
+      "Material tears easily"
+    ],
+    "appreciation_themes": [
+      "Budget-friendly",
+      "Decent storage space"
+    ],
+    "trust_score": 76.2,
+    "aspects": {
+      "wheels": 0.11,
+      "handle": -0.1,
+      "material": -0.24,
+      "zipper": -0.01,
+      "size_space": 0.82,
+      "durability": 0.61
+    },
+    "category": "Cabin",
+    "size": "65cm / 24in"
+  },
+  {
+    "asin": "B0CKJLTEIY",
+    "title": "Aristocrat Nylon Medium Luggage Trolley Bag 50cm - Crimson",
+    "brand": "Aristocrat",
+    "price": 1440,
+    "list_price": 3200,
+    "discount_pct": 55.0,
+    "rating": 3.2,
+    "review_count": 801,
+    "sentiment_score": 0.54,
+    "review_synthesis": "Customers generally appreciate this Aristocrat product. Key positives include decent storage space and budget-friendly. Common concerns revolve around zipper breaks after few uses and material tears easily.",
+    "complaint_themes": [
+      "Zipper breaks after few uses",
+      "Material tears easily"
+    ],
+    "appreciation_themes": [
+      "Decent storage space",
+      "Budget-friendly"
+    ],
+    "trust_score": 83.3,
+    "aspects": {
+      "wheels": 0.15,
+      "handle": 0.12,
+      "material": -0.19,
+      "zipper": -0.02,
+      "size_space": 0.15,
+      "durability": 0.22
+    },
+    "category": "Medium",
+    "size": "50cm / 18in"
+  },
+  {
+    "asin": "B048P0TVHH",
+    "title": "Aristocrat ABS Cabin Luggage Trolley Bag 50cm - Wine Red",
+    "brand": "Aristocrat",
+    "price": 1909,
+    "list_price": 3700,
+    "discount_pct": 48.4,
+    "rating": 4.3,
+    "review_count": 438,
+    "sentiment_score": 0.13,
+    "review_synthesis": "Customers generally have mixed feelings about this Aristocrat product. Key positives include budget-friendly and decent storage space. Common concerns revolve around zipper breaks after few uses and material tears easily.",
+    "complaint_themes": [
+      "Zipper breaks after few uses",
+      "Material tears easily"
+    ],
+    "appreciation_themes": [
+      "Budget-friendly",
+      "Decent storage space"
+    ],
+    "trust_score": 72.4,
+    "aspects": {
+      "wheels": 0.42,
+      "handle": 0.2,
+      "material": -0.17,
+      "zipper": -0.15,
+      "size_space": 0.16,
+      "durability": 0.3
+    },
+    "category": "Cabin",
+    "size": "50cm / 18in"
+  },
+  {
+    "asin": "B0NHL1N13J",
+    "title": "Aristocrat Polyester Cabin Luggage Trolley Bag 50cm - Navy",
+    "brand": "Aristocrat",
+    "price": 988,
+    "list_price": 2200,
+    "discount_pct": 55.1,
+    "rating": 4.5,
+    "review_count": 586,
+    "sentiment_score": 0.22,
+    "review_synthesis": "Customers generally have mixed feelings about this Aristocrat product. Key positives include decent storage space and budget-friendly. Common concerns revolve around handle durability and zipper breaks after few uses.",
+    "complaint_themes": [
+      "Handle durability",
+      "Zipper breaks after few uses"
+    ],
+    "appreciation_themes": [
+      "Decent storage space",
+      "Budget-friendly"
+    ],
+    "trust_score": 58.3,
+    "aspects": {
+      "wheels": 0.01,
+      "handle": 0.18,
+      "material": 0.01,
+      "zipper": -0.06,
+      "size_space": 0.51,
+      "durability": 0.21
+    },
+    "category": "Cabin",
+    "size": "50cm / 18in"
+  },
+  {
+    "asin": "B01GV0E38D",
+    "title": "Aristocrat Polyester Cabin Luggage Trolley Bag 55cm - Grey",
+    "brand": "Aristocrat",
+    "price": 826,
+    "list_price": 1800,
+    "discount_pct": 54.1,
+    "rating": 3.5,
+    "review_count": 293,
+    "sentiment_score": 0.11,
+    "review_synthesis": "Customers generally have mixed feelings about this Aristocrat product. Key positives include budget-friendly and decent storage space. Common concerns revolve around material tears easily and zipper breaks after few uses.",
+    "complaint_themes": [
+      "Material tears easily",
+      "Zipper breaks after few uses"
+    ],
+    "appreciation_themes": [
+      "Budget-friendly",
+      "Decent storage space"
+    ],
+    "trust_score": 56.0,
+    "aspects": {
+      "wheels": 0.01,
+      "handle": -0.01,
+      "material": 0.02,
+      "zipper": 0.04,
+      "size_space": 0.61,
+      "durability": 0.16
+    },
+    "category": "Cabin",
+    "size": "55cm / 20in"
+  },
+  {
+    "asin": "B0CXAPRPN6",
+    "title": "Aristocrat ABS Medium Luggage Trolley Bag 50cm - Grey",
+    "brand": "Aristocrat",
+    "price": 887,
+    "list_price": 1800,
+    "discount_pct": 50.7,
+    "rating": 3.9,
+    "review_count": 753,
+    "sentiment_score": 0.25,
+    "review_synthesis": "Customers generally have mixed feelings about this Aristocrat product. Key positives include decent storage space and lightweight. Common concerns revolve around material tears easily and zipper breaks after few uses.",
+    "complaint_themes": [
+      "Material tears easily",
+      "Zipper breaks after few uses"
+    ],
+    "appreciation_themes": [
+      "Decent storage space",
+      "Lightweight"
+    ],
+    "trust_score": 73.4,
+    "aspects": {
+      "wheels": 0.15,
+      "handle": 0.03,
+      "material": -0.41,
+      "zipper": -0.1,
+      "size_space": 0.47,
+      "durability": 0.63
+    },
+    "category": "Medium",
+    "size": "50cm / 18in"
+  },
+  {
+    "asin": "B0UYMRLRMJ",
+    "title": "Skybags Hard Shell ABS+PC Small Luggage Trolley Bag 65cm - Crimson",
+    "brand": "Skybags",
+    "price": 3661,
+    "list_price": 5200,
+    "discount_pct": 29.6,
+    "rating": 4.2,
+    "review_count": 535,
+    "sentiment_score": 0.87,
+    "review_synthesis": "Customers generally appreciate this Skybags product. Key positives include smooth wheels and good build quality. Common concerns revolve around slightly overpriced and handle gets loose.",
+    "complaint_themes": [
+      "Slightly overpriced",
+      "Handle gets loose"
+    ],
+    "appreciation_themes": [
+      "Smooth wheels",
+      "Good build quality"
+    ],
+    "trust_score": 66.2,
+    "aspects": {
+      "wheels": 0.54,
+      "handle": -0.14,
+      "material": 0.85,
+      "zipper": 0.37,
+      "size_space": 0.42,
+      "durability": 0.53
+    },
+    "category": "Small",
+    "size": "65cm / 24in"
+  },
+  {
+    "asin": "B0RTP0LZJJ",
+    "title": "Skybags Nylon Medium Luggage Trolley Bag 55cm - Grey",
+    "brand": "Skybags",
+    "price": 1985,
+    "list_price": 2800,
+    "discount_pct": 29.1,
+    "rating": 3.8,
+    "review_count": 286,
+    "sentiment_score": 0.58,
+    "review_synthesis": "Customers generally appreciate this Skybags product. Key positives include good build quality and trendy designs. Common concerns revolve around handle gets loose and limited warranty service.",
+    "complaint_themes": [
+      "Handle gets loose",
+      "Limited warranty service"
+    ],
+    "appreciation_themes": [
+      "Good build quality",
+      "Trendy designs"
+    ],
+    "trust_score": 59.8,
+    "aspects": {
+      "wheels": 0.91,
+      "handle": 0.11,
+      "material": 0.5,
+      "zipper": 0.17,
+      "size_space": 0.54,
+      "durability": 0.64
+    },
+    "category": "Medium",
+    "size": "55cm / 20in"
+  },
+  {
+    "asin": "B0ZEBBK7W1",
+    "title": "Skybags Polycarbonate Check-in Luggage Trolley Bag 75cm - Crimson",
+    "brand": "Skybags",
+    "price": 3811,
+    "list_price": 5300,
+    "discount_pct": 28.1,
+    "rating": 4.2,
+    "review_count": 781,
+    "sentiment_score": 0.41,
+    "review_synthesis": "Customers generally appreciate this Skybags product. Key positives include smooth wheels and trendy designs. Common concerns revolve around handle gets loose and slightly overpriced.",
+    "complaint_themes": [
+      "Handle gets loose",
+      "Slightly overpriced"
+    ],
+    "appreciation_themes": [
+      "Smooth wheels",
+      "Trendy designs"
+    ],
+    "trust_score": 59.1,
+    "aspects": {
+      "wheels": 1.0,
+      "handle": -0.07,
+      "material": 0.59,
+      "zipper": 0.06,
+      "size_space": 0.2,
+      "durability": 0.6
+    },
+    "category": "Check-in",
+    "size": "75cm / 28in"
+  },
+  {
+    "asin": "B0E1V2ISQP",
+    "title": "Skybags ABS Cabin Luggage Trolley Bag 75cm - Silver",
+    "brand": "Skybags",
+    "price": 2976,
+    "list_price": 4300,
+    "discount_pct": 30.8,
+    "rating": 4.3,
+    "review_count": 529,
+    "sentiment_score": 0.44,
+    "review_synthesis": "Customers generally appreciate this Skybags product. Key positives include good build quality and smooth wheels. Common concerns revolve around slightly overpriced and limited warranty service.",
+    "complaint_themes": [
+      "Slightly overpriced",
+      "Limited warranty service"
+    ],
+    "appreciation_themes": [
+      "Good build quality",
+      "Smooth wheels"
+    ],
+    "trust_score": 89.4,
+    "aspects": {
+      "wheels": 0.74,
+      "handle": 0.28,
+      "material": 0.82,
+      "zipper": 0.26,
+      "size_space": 0.53,
+      "durability": 0.48
+    },
+    "category": "Cabin",
+    "size": "75cm / 28in"
+  },
+  {
+    "asin": "B0KIZZQY72",
+    "title": "Skybags Nylon Small Luggage Trolley Bag 75cm - Charcoal",
+    "brand": "Skybags",
+    "price": 1744,
+    "list_price": 2700,
+    "discount_pct": 35.4,
+    "rating": 4.1,
+    "review_count": 252,
+    "sentiment_score": 0.49,
+    "review_synthesis": "Customers generally appreciate this Skybags product. Key positives include smooth wheels and good build quality. Common concerns revolve around limited warranty service and handle gets loose.",
+    "complaint_themes": [
+      "Limited warranty service",
+      "Handle gets loose"
+    ],
+    "appreciation_themes": [
+      "Smooth wheels",
+      "Good build quality"
+    ],
+    "trust_score": 80.0,
+    "aspects": {
+      "wheels": 0.29,
+      "handle": 0.11,
+      "material": 0.66,
+      "zipper": 0.65,
+      "size_space": 0.59,
+      "durability": 0.41
+    },
+    "category": "Small",
+    "size": "75cm / 28in"
+  },
+  {
+    "asin": "B07SRCBPLJ",
+    "title": "Skybags Polycarbonate Check-in Luggage Trolley Bag 50cm - Crimson",
+    "brand": "Skybags",
+    "price": 2176,
+    "list_price": 3400,
+    "discount_pct": 36.0,
+    "rating": 4.6,
+    "review_count": 113,
+    "sentiment_score": 0.44,
+    "review_synthesis": "Customers generally appreciate this Skybags product. Key positives include smooth wheels and good build quality. Common concerns revolve around limited warranty service and handle gets loose.",
+    "complaint_themes": [
+      "Limited warranty service",
+      "Handle gets loose"
+    ],
+    "appreciation_themes": [
+      "Smooth wheels",
+      "Good build quality"
+    ],
+    "trust_score": 58.7,
+    "aspects": {
+      "wheels": 0.57,
+      "handle": 0.55,
+      "material": 0.9,
+      "zipper": 0.21,
+      "size_space": 0.31,
+      "durability": 0.71
+    },
+    "category": "Check-in",
+    "size": "50cm / 18in"
+  },
+  {
+    "asin": "B0ORXO1BDJ",
+    "title": "Skybags Nylon Cabin Luggage Trolley Bag 75cm - Blue",
+    "brand": "Skybags",
+    "price": 2144,
+    "list_price": 3200,
+    "discount_pct": 33.0,
+    "rating": 3.7,
+    "review_count": 225,
+    "sentiment_score": 0.55,
+    "review_synthesis": "Customers generally appreciate this Skybags product. Key positives include smooth wheels and trendy designs. Common concerns revolve around slightly overpriced and handle gets loose.",
+    "complaint_themes": [
+      "Slightly overpriced",
+      "Handle gets loose"
+    ],
+    "appreciation_themes": [
+      "Smooth wheels",
+      "Trendy designs"
+    ],
+    "trust_score": 59.6,
+    "aspects": {
+      "wheels": 0.41,
+      "handle": 0.43,
+      "material": 0.77,
+      "zipper": 0.73,
+      "size_space": 0.04,
+      "durability": 0.32
+    },
+    "category": "Cabin",
+    "size": "75cm / 28in"
+  },
+  {
+    "asin": "B09VIFTTD9",
+    "title": "Skybags Hard Shell ABS+PC Small Luggage Trolley Bag 55cm - Crimson",
+    "brand": "Skybags",
+    "price": 2992,
+    "list_price": 4400,
+    "discount_pct": 32.0,
+    "rating": 4.2,
+    "review_count": 814,
+    "sentiment_score": 0.61,
+    "review_synthesis": "Customers generally appreciate this Skybags product. Key positives include good build quality and smooth wheels. Common concerns revolve around slightly overpriced and limited warranty service.",
+    "complaint_themes": [
+      "Slightly overpriced",
+      "Limited warranty service"
+    ],
+    "appreciation_themes": [
+      "Good build quality",
+      "Smooth wheels"
+    ],
+    "trust_score": 91.5,
+    "aspects": {
+      "wheels": 0.95,
+      "handle": 0.0,
+      "material": 0.77,
+      "zipper": 0.67,
+      "size_space": 0.57,
+      "durability": 0.63
+    },
+    "category": "Small",
+    "size": "55cm / 20in"
+  },
+  {
+    "asin": "B014M2JA04",
+    "title": "Skybags Hard Shell ABS+PC Small Luggage Trolley Bag 55cm - Black",
+    "brand": "Skybags",
+    "price": 2660,
+    "list_price": 4500,
+    "discount_pct": 40.9,
+    "rating": 4.0,
+    "review_count": 465,
+    "sentiment_score": 0.75,
+    "review_synthesis": "Customers generally appreciate this Skybags product. Key positives include good build quality and trendy designs. Common concerns revolve around slightly overpriced and handle gets loose.",
+    "complaint_themes": [
+      "Slightly overpriced",
+      "Handle gets loose"
+    ],
+    "appreciation_themes": [
+      "Good build quality",
+      "Trendy designs"
+    ],
+    "trust_score": 78.2,
+    "aspects": {
+      "wheels": 1.0,
+      "handle": 0.5,
+      "material": 0.29,
+      "zipper": 0.53,
+      "size_space": 0.77,
+      "durability": 0.18
+    },
+    "category": "Small",
+    "size": "55cm / 20in"
+  },
+  {
+    "asin": "B0Z3NX39RB",
+    "title": "Skybags ABS Small Luggage Trolley Bag 65cm - Crimson",
+    "brand": "Skybags",
+    "price": 3110,
+    "list_price": 4500,
+    "discount_pct": 30.9,
+    "rating": 3.7,
+    "review_count": 506,
+    "sentiment_score": 0.72,
+    "review_synthesis": "Customers generally appreciate this Skybags product. Key positives include smooth wheels and trendy designs. Common concerns revolve around handle gets loose and limited warranty service.",
+    "complaint_themes": [
+      "Handle gets loose",
+      "Limited warranty service"
+    ],
+    "appreciation_themes": [
+      "Smooth wheels",
+      "Trendy designs"
+    ],
+    "trust_score": 75.1,
+    "aspects": {
+      "wheels": 0.69,
+      "handle": 0.59,
+      "material": 0.6,
+      "zipper": 0.67,
+      "size_space": 0.5,
+      "durability": 0.23
+    },
+    "category": "Small",
+    "size": "65cm / 24in"
+  },
+  {
+    "asin": "B08W5RTWIY",
+    "title": "VIP ABS Medium Luggage Trolley Bag 55cm - Red",
+    "brand": "VIP",
+    "price": 2825,
+    "list_price": 5000,
+    "discount_pct": 43.5,
+    "rating": 4.2,
+    "review_count": 710,
+    "sentiment_score": 0.34,
+    "review_synthesis": "Customers generally appreciate this VIP product. Key positives include trusted brand and sturdy build. Common concerns revolve around dull designs and expensive for features.",
+    "complaint_themes": [
+      "Dull designs",
+      "Expensive for features"
+    ],
+    "appreciation_themes": [
+      "Trusted brand",
+      "Sturdy build"
+    ],
+    "trust_score": 66.5,
+    "aspects": {
+      "wheels": 0.71,
+      "handle": 0.53,
+      "material": 0.44,
+      "zipper": 0.48,
+      "size_space": 0.3,
+      "durability": 0.26
+    },
+    "category": "Medium",
+    "size": "55cm / 20in"
+  },
+  {
+    "asin": "B0GC5WI6FQ",
+    "title": "VIP ABS Check-in Luggage Trolley Bag 55cm - Red",
+    "brand": "VIP",
+    "price": 3611,
+    "list_price": 5900,
+    "discount_pct": 38.8,
+    "rating": 4.2,
+    "review_count": 750,
+    "sentiment_score": 0.57,
+    "review_synthesis": "Customers generally appreciate this VIP product. Key positives include trusted brand and sturdy build. Common concerns revolve around dull designs and heavy weight.",
+    "complaint_themes": [
+      "Dull designs",
+      "Heavy weight"
+    ],
+    "appreciation_themes": [
+      "Trusted brand",
+      "Sturdy build"
+    ],
+    "trust_score": 65.2,
+    "aspects": {
+      "wheels": 0.54,
+      "handle": 0.44,
+      "material": 0.5,
+      "zipper": 0.42,
+      "size_space": 0.51,
+      "durability": 0.27
+    },
+    "category": "Check-in",
+    "size": "55cm / 20in"
+  },
+  {
+    "asin": "B0UU9K9XJU",
+    "title": "VIP ABS Medium Luggage Trolley Bag 55cm - Teal",
+    "brand": "VIP",
+    "price": 3511,
+    "list_price": 5600,
+    "discount_pct": 37.3,
+    "rating": 4.6,
+    "review_count": 641,
+    "sentiment_score": 1.0,
+    "review_synthesis": "Customers generally appreciate this VIP product. Key positives include sturdy build and trusted brand. Common concerns revolve around heavy weight and expensive for features.",
+    "complaint_themes": [
+      "Heavy weight",
+      "Expensive for features"
+    ],
+    "appreciation_themes": [
+      "Sturdy build",
+      "Trusted brand"
+    ],
+    "trust_score": 82.4,
+    "aspects": {
+      "wheels": 0.92,
+      "handle": 0.29,
+      "material": 0.94,
+      "zipper": 0.37,
+      "size_space": 0.24,
+      "durability": 0.15
+    },
+    "category": "Medium",
+    "size": "55cm / 20in"
+  },
+  {
+    "asin": "B0BNE6LOH2",
+    "title": "VIP Polyester Cabin Luggage Trolley Bag 50cm - Grey",
+    "brand": "VIP",
+    "price": 3095,
+    "list_price": 5300,
+    "discount_pct": 41.6,
+    "rating": 4.0,
+    "review_count": 296,
+    "sentiment_score": 0.22,
+    "review_synthesis": "Customers generally have mixed feelings about this VIP product. Key positives include good wheel quality and trusted brand. Common concerns revolve around expensive for features and dull designs.",
+    "complaint_themes": [
+      "Expensive for features",
+      "Dull designs"
+    ],
+    "appreciation_themes": [
+      "Good wheel quality",
+      "Trusted brand"
+    ],
+    "trust_score": 90.1,
+    "aspects": {
+      "wheels": 0.83,
+      "handle": 0.31,
+      "material": 0.16,
+      "zipper": 0.24,
+      "size_space": 0.13,
+      "durability": 0.1
+    },
+    "category": "Cabin",
+    "size": "50cm / 18in"
+  },
+  {
+    "asin": "B0ATQYYV37",
+    "title": "VIP Polypropylene Medium Luggage Trolley Bag 75cm - Teal",
+    "brand": "VIP",
+    "price": 2669,
+    "list_price": 4800,
+    "discount_pct": 44.4,
+    "rating": 3.8,
+    "review_count": 157,
+    "sentiment_score": 0.25,
+    "review_synthesis": "Customers generally have mixed feelings about this VIP product. Key positives include sturdy build and good wheel quality. Common concerns revolve around heavy weight and expensive for features.",
+    "complaint_themes": [
+      "Heavy weight",
+      "Expensive for features"
+    ],
+    "appreciation_themes": [
+      "Sturdy build",
+      "Good wheel quality"
+    ],
+    "trust_score": 59.3,
+    "aspects": {
+      "wheels": 1.0,
+      "handle": 0.37,
+      "material": 0.47,
+      "zipper": 0.45,
+      "size_space": 0.31,
+      "durability": 0.27
+    },
+    "category": "Medium",
+    "size": "75cm / 28in"
+  },
+  {
+    "asin": "B0ITNN8ZTV",
+    "title": "VIP Polycarbonate Check-in Luggage Trolley Bag 50cm - Charcoal",
+    "brand": "VIP",
+    "price": 3386,
+    "list_price": 5100,
+    "discount_pct": 33.6,
+    "rating": 3.7,
+    "review_count": 690,
+    "sentiment_score": 0.73,
+    "review_synthesis": "Customers generally appreciate this VIP product. Key positives include sturdy build and good wheel quality. Common concerns revolve around heavy weight and dull designs.",
+    "complaint_themes": [
+      "Heavy weight",
+      "Dull designs"
+    ],
+    "appreciation_themes": [
+      "Sturdy build",
+      "Good wheel quality"
+    ],
+    "trust_score": 84.1,
+    "aspects": {
+      "wheels": 0.52,
+      "handle": 0.65,
+      "material": 0.06,
+      "zipper": 0.38,
+      "size_space": 0.64,
+      "durability": 0.71
+    },
+    "category": "Check-in",
+    "size": "50cm / 18in"
+  },
+  {
+    "asin": "B0J883DHX8",
+    "title": "VIP ABS Small Luggage Trolley Bag 55cm - Charcoal",
+    "brand": "VIP",
+    "price": 2520,
+    "list_price": 4500,
+    "discount_pct": 44.0,
+    "rating": 3.9,
+    "review_count": 262,
+    "sentiment_score": 0.28,
+    "review_synthesis": "Customers generally have mixed feelings about this VIP product. Key positives include good wheel quality and sturdy build. Common concerns revolve around heavy weight and expensive for features.",
+    "complaint_themes": [
+      "Heavy weight",
+      "Expensive for features"
+    ],
+    "appreciation_themes": [
+      "Good wheel quality",
+      "Sturdy build"
+    ],
+    "trust_score": 57.0,
+    "aspects": {
+      "wheels": 1.0,
+      "handle": -0.01,
+      "material": 0.62,
+      "zipper": 0.51,
+      "size_space": 0.38,
+      "durability": 0.3
+    },
+    "category": "Small",
+    "size": "55cm / 20in"
+  },
+  {
+    "asin": "B02D5EM2VA",
+    "title": "VIP Polypropylene Medium Luggage Trolley Bag 65cm - Charcoal",
+    "brand": "VIP",
+    "price": 2549,
+    "list_price": 3600,
+    "discount_pct": 29.2,
+    "rating": 4.0,
+    "review_count": 261,
+    "sentiment_score": 0.38,
+    "review_synthesis": "Customers generally appreciate this VIP product. Key positives include trusted brand and good wheel quality. Common concerns revolve around dull designs and expensive for features.",
+    "complaint_themes": [
+      "Dull designs",
+      "Expensive for features"
+    ],
+    "appreciation_themes": [
+      "Trusted brand",
+      "Good wheel quality"
+    ],
+    "trust_score": 65.6,
+    "aspects": {
+      "wheels": 0.56,
+      "handle": 0.51,
+      "material": 0.32,
+      "zipper": 0.5,
+      "size_space": 0.1,
+      "durability": 0.27
+    },
+    "category": "Medium",
+    "size": "65cm / 24in"
+  },
+  {
+    "asin": "B0CROYR6CC",
+    "title": "VIP Nylon Check-in Luggage Trolley Bag 50cm - Red",
+    "brand": "VIP",
+    "price": 4183,
+    "list_price": 5900,
+    "discount_pct": 29.1,
+    "rating": 3.7,
+    "review_count": 647,
+    "sentiment_score": 0.16,
+    "review_synthesis": "Customers generally have mixed feelings about this VIP product. Key positives include good wheel quality and sturdy build. Common concerns revolve around expensive for features and heavy weight.",
+    "complaint_themes": [
+      "Expensive for features",
+      "Heavy weight"
+    ],
+    "appreciation_themes": [
+      "Good wheel quality",
+      "Sturdy build"
+    ],
+    "trust_score": 79.3,
+    "aspects": {
+      "wheels": 0.76,
+      "handle": 0.63,
+      "material": 0.6,
+      "zipper": 0.51,
+      "size_space": 0.43,
+      "durability": 0.48
+    },
+    "category": "Check-in",
+    "size": "50cm / 18in"
+  },
+  {
+    "asin": "B05O3O0LLJ",
+    "title": "VIP Polyester Cabin Luggage Trolley Bag 65cm - Charcoal",
+    "brand": "VIP",
+    "price": 3348,
+    "list_price": 5400,
+    "discount_pct": 38.0,
+    "rating": 3.9,
+    "review_count": 651,
+    "sentiment_score": 0.17,
+    "review_synthesis": "Customers generally have mixed feelings about this VIP product. Key positives include good wheel quality and trusted brand. Common concerns revolve around expensive for features and dull designs.",
+    "complaint_themes": [
+      "Expensive for features",
+      "Dull designs"
+    ],
+    "appreciation_themes": [
+      "Good wheel quality",
+      "Trusted brand"
+    ],
+    "trust_score": 93.1,
+    "aspects": {
+      "wheels": 0.51,
+      "handle": 0.23,
+      "material": 0.41,
+      "zipper": 0.38,
+      "size_space": 0.39,
+      "durability": 0.28
+    },
+    "category": "Cabin",
+    "size": "65cm / 24in"
+  },
+  {
+    "asin": "B08VMUHXID",
+    "title": "VIP Polycarbonate Small Luggage Trolley Bag 55cm - Red",
+    "brand": "VIP",
+    "price": 2070,
+    "list_price": 3200,
+    "discount_pct": 35.3,
+    "rating": 4.0,
+    "review_count": 173,
+    "sentiment_score": 0.55,
+    "review_synthesis": "Customers generally appreciate this VIP product. Key positives include good wheel quality and sturdy build. Common concerns revolve around dull designs and heavy weight.",
+    "complaint_themes": [
+      "Dull designs",
+      "Heavy weight"
+    ],
+    "appreciation_themes": [
+      "Good wheel quality",
+      "Sturdy build"
+    ],
+    "trust_score": 88.8,
+    "aspects": {
+      "wheels": 0.51,
+      "handle": 0.2,
+      "material": 0.36,
+      "zipper": 0.28,
+      "size_space": 0.38,
+      "durability": 0.53
+    },
+    "category": "Small",
+    "size": "55cm / 20in"
+  },
+  {
+    "asin": "B07MGFXC08",
+    "title": "VIP Polyester Medium Luggage Trolley Bag 55cm - Charcoal",
+    "brand": "VIP",
+    "price": 2157,
+    "list_price": 3700,
+    "discount_pct": 41.7,
+    "rating": 4.5,
+    "review_count": 676,
+    "sentiment_score": 0.35,
+    "review_synthesis": "Customers generally appreciate this VIP product. Key positives include trusted brand and sturdy build. Common concerns revolve around dull designs and expensive for features.",
+    "complaint_themes": [
+      "Dull designs",
+      "Expensive for features"
+    ],
+    "appreciation_themes": [
+      "Trusted brand",
+      "Sturdy build"
+    ],
+    "trust_score": 58.7,
+    "aspects": {
+      "wheels": 0.25,
+      "handle": 0.23,
+      "material": 0.26,
+      "zipper": 0.9,
+      "size_space": 0.53,
+      "durability": 0.48
+    },
+    "category": "Medium",
+    "size": "55cm / 20in"
+  },
+  {
+    "asin": "B0OHSMDYVS",
+    "title": "American Tourister ABS Check-in Luggage Trolley Bag 50cm - Silver",
+    "brand": "American Tourister",
+    "price": 5569,
+    "list_price": 6800,
+    "discount_pct": 18.1,
+    "rating": 4.2,
+    "review_count": 621,
+    "sentiment_score": 0.7,
+    "review_synthesis": "Customers generally appreciate this American Tourister product. Key positives include premium material and smooth 360 wheels. Common concerns revolve around heavy and limited color options at lower price.",
+    "complaint_themes": [
+      "Heavy",
+      "Limited color options at lower price"
+    ],
+    "appreciation_themes": [
+      "Premium material",
+      "Smooth 360 wheels"
+    ],
+    "trust_score": 67.3,
+    "aspects": {
+      "wheels": 1.0,
+      "handle": 0.34,
+      "material": 0.69,
+      "zipper": 0.87,
+      "size_space": 0.96,
+      "durability": 0.71
+    },
+    "category": "Check-in",
+    "size": "50cm / 18in"
+  },
+  {
+    "asin": "B0C5BA75UU",
+    "title": "American Tourister Nylon Check-in Luggage Trolley Bag 50cm - Blue",
+    "brand": "American Tourister",
+    "price": 3317,
+    "list_price": 4100,
+    "discount_pct": 19.1,
+    "rating": 4.8,
+    "review_count": 822,
+    "sentiment_score": 0.81,
+    "review_synthesis": "Customers generally appreciate this American Tourister product. Key positives include smooth 360 wheels and excellent durability. Common concerns revolve around limited color options at lower price and heavy.",
+    "complaint_themes": [
+      "Limited color options at lower price",
+      "Heavy"
+    ],
+    "appreciation_themes": [
+      "Smooth 360 wheels",
+      "Excellent durability"
+    ],
+    "trust_score": 83.4,
+    "aspects": {
+      "wheels": 0.81,
+      "handle": 0.67,
+      "material": 1.0,
+      "zipper": 1.0,
+      "size_space": 0.7,
+      "durability": 0.72
+    },
+    "category": "Check-in",
+    "size": "50cm / 18in"
+  },
+  {
+    "asin": "B00H2CWTG1",
+    "title": "American Tourister Polycarbonate Small Luggage Trolley Bag 75cm - Navy",
+    "brand": "American Tourister",
+    "price": 2759,
+    "list_price": 4200,
+    "discount_pct": 34.3,
+    "rating": 4.6,
+    "review_count": 511,
+    "sentiment_score": 0.88,
+    "review_synthesis": "Customers generally appreciate this American Tourister product. Key positives include smooth 360 wheels and excellent durability. Common concerns revolve around heavy and limited color options at lower price.",
+    "complaint_themes": [
+      "Heavy",
+      "Limited color options at lower price"
+    ],
+    "appreciation_themes": [
+      "Smooth 360 wheels",
+      "Excellent durability"
+    ],
+    "trust_score": 69.0,
+    "aspects": {
+      "wheels": 1.0,
+      "handle": 0.9,
+      "material": 0.54,
+      "zipper": 1.0,
+      "size_space": 0.88,
+      "durability": 0.64
+    },
+    "category": "Small",
+    "size": "75cm / 28in"
+  },
+  {
+    "asin": "B0FCPKJCSL",
+    "title": "American Tourister Polycarbonate Check-in Luggage Trolley Bag 65cm - Black",
+    "brand": "American Tourister",
+    "price": 4947,
+    "list_price": 6100,
+    "discount_pct": 18.9,
+    "rating": 3.9,
+    "review_count": 711,
+    "sentiment_score": 0.6,
+    "review_synthesis": "Customers generally appreciate this American Tourister product. Key positives include smooth 360 wheels and premium material. Common concerns revolve around limited color options at lower price and heavy.",
+    "complaint_themes": [
+      "Limited color options at lower price",
+      "Heavy"
+    ],
+    "appreciation_themes": [
+      "Smooth 360 wheels",
+      "Premium material"
+    ],
+    "trust_score": 73.1,
+    "aspects": {
+      "wheels": 0.73,
+      "handle": 1.0,
+      "material": 1.0,
+      "zipper": 0.53,
+      "size_space": 0.52,
+      "durability": 0.39
+    },
+    "category": "Check-in",
+    "size": "65cm / 24in"
+  },
+  {
+    "asin": "B0S8Q349DX",
+    "title": "American Tourister Polyester Cabin Luggage Trolley Bag 75cm - Red",
+    "brand": "American Tourister",
+    "price": 6296,
+    "list_price": 9300,
+    "discount_pct": 32.3,
+    "rating": 4.6,
+    "review_count": 559,
+    "sentiment_score": 0.76,
+    "review_synthesis": "Customers generally appreciate this American Tourister product. Key positives include smooth 360 wheels and excellent durability. Common concerns revolve around heavy and limited color options at lower price.",
+    "complaint_themes": [
+      "Heavy",
+      "Limited color options at lower price"
+    ],
+    "appreciation_themes": [
+      "Smooth 360 wheels",
+      "Excellent durability"
+    ],
+    "trust_score": 56.6,
+    "aspects": {
+      "wheels": 0.71,
+      "handle": 0.48,
+      "material": 1.0,
+      "zipper": 0.99,
+      "size_space": 0.59,
+      "durability": 1.0
+    },
+    "category": "Cabin",
+    "size": "75cm / 28in"
+  },
+  {
+    "asin": "B00X65MUFM",
+    "title": "American Tourister Nylon Small Luggage Trolley Bag 50cm - Crimson",
+    "brand": "American Tourister",
+    "price": 7362,
+    "list_price": 9000,
+    "discount_pct": 18.2,
+    "rating": 4.1,
+    "review_count": 458,
+    "sentiment_score": 0.8,
+    "review_synthesis": "Customers generally appreciate this American Tourister product. Key positives include smooth 360 wheels and premium material. Common concerns revolve around heavy and limited color options at lower price.",
+    "complaint_themes": [
+      "Heavy",
+      "Limited color options at lower price"
+    ],
+    "appreciation_themes": [
+      "Smooth 360 wheels",
+      "Premium material"
+    ],
+    "trust_score": 93.7,
+    "aspects": {
+      "wheels": 1.0,
+      "handle": 0.73,
+      "material": 0.63,
+      "zipper": 0.95,
+      "size_space": 0.77,
+      "durability": 0.54
+    },
+    "category": "Small",
+    "size": "50cm / 18in"
+  },
+  {
+    "asin": "B0L8M1G9FK",
+    "title": "American Tourister Nylon Small Luggage Trolley Bag 65cm - Red",
+    "brand": "American Tourister",
+    "price": 4797,
+    "list_price": 6500,
+    "discount_pct": 26.2,
+    "rating": 4.1,
+    "review_count": 170,
+    "sentiment_score": 0.64,
+    "review_synthesis": "Customers generally appreciate this American Tourister product. Key positives include premium material and smooth 360 wheels. Common concerns revolve around high price point and heavy.",
+    "complaint_themes": [
+      "High price point",
+      "Heavy"
+    ],
+    "appreciation_themes": [
+      "Premium material",
+      "Smooth 360 wheels"
+    ],
+    "trust_score": 86.5,
+    "aspects": {
+      "wheels": 0.79,
+      "handle": 0.5,
+      "material": 0.6,
+      "zipper": 0.66,
+      "size_space": 0.38,
+      "durability": 0.35
+    },
+    "category": "Small",
+    "size": "65cm / 24in"
+  },
+  {
+    "asin": "B0II826GYU",
+    "title": "American Tourister Nylon Cabin Luggage Trolley Bag 75cm - Black",
+    "brand": "American Tourister",
+    "price": 6898,
+    "list_price": 8900,
+    "discount_pct": 22.5,
+    "rating": 4.6,
+    "review_count": 829,
+    "sentiment_score": 0.86,
+    "review_synthesis": "Customers generally appreciate this American Tourister product. Key positives include premium material and smooth 360 wheels. Common concerns revolve around limited color options at lower price and heavy.",
+    "complaint_themes": [
+      "Limited color options at lower price",
+      "Heavy"
+    ],
+    "appreciation_themes": [
+      "Premium material",
+      "Smooth 360 wheels"
+    ],
+    "trust_score": 72.6,
+    "aspects": {
+      "wheels": 1.0,
+      "handle": 0.37,
+      "material": 0.63,
+      "zipper": 0.67,
+      "size_space": 0.62,
+      "durability": 0.42
+    },
+    "category": "Cabin",
+    "size": "75cm / 28in"
+  },
+  {
+    "asin": "B01J6FP8HQ",
+    "title": "American Tourister Nylon Medium Luggage Trolley Bag 50cm - Crimson",
+    "brand": "American Tourister",
+    "price": 4862,
+    "list_price": 7400,
+    "discount_pct": 34.3,
+    "rating": 4.5,
+    "review_count": 181,
+    "sentiment_score": 0.59,
+    "review_synthesis": "Customers generally appreciate this American Tourister product. Key positives include smooth 360 wheels and excellent durability. Common concerns revolve around heavy and high price point.",
+    "complaint_themes": [
+      "Heavy",
+      "High price point"
+    ],
+    "appreciation_themes": [
+      "Smooth 360 wheels",
+      "Excellent durability"
+    ],
+    "trust_score": 69.0,
+    "aspects": {
+      "wheels": 0.6,
+      "handle": 0.73,
+      "material": 0.88,
+      "zipper": 0.49,
+      "size_space": 0.7,
+      "durability": 0.92
+    },
+    "category": "Medium",
+    "size": "50cm / 18in"
+  },
+  {
+    "asin": "B01QW6AHF7",
+    "title": "American Tourister Polycarbonate Cabin Luggage Trolley Bag 50cm - Navy",
+    "brand": "American Tourister",
+    "price": 6278,
+    "list_price": 8100,
+    "discount_pct": 22.5,
+    "rating": 4.2,
+    "review_count": 269,
+    "sentiment_score": 0.6,
+    "review_synthesis": "Customers generally appreciate this American Tourister product. Key positives include premium material and smooth 360 wheels. Common concerns revolve around limited color options at lower price and high price point.",
+    "complaint_themes": [
+      "Limited color options at lower price",
+      "High price point"
+    ],
+    "appreciation_themes": [
+      "Premium material",
+      "Smooth 360 wheels"
+    ],
+    "trust_score": 79.4,
+    "aspects": {
+      "wheels": 0.98,
+      "handle": 1.0,
+      "material": 1.0,
+      "zipper": 0.83,
+      "size_space": 0.43,
+      "durability": 0.66
+    },
+    "category": "Cabin",
+    "size": "50cm / 18in"
+  },
+  {
+    "asin": "B0AMUGYSM8",
+    "title": "American Tourister Polyester Small Luggage Trolley Bag 55cm - Grey",
+    "brand": "American Tourister",
+    "price": 5369,
+    "list_price": 6500,
+    "discount_pct": 17.4,
+    "rating": 4.3,
+    "review_count": 677,
+    "sentiment_score": 0.7,
+    "review_synthesis": "Customers generally appreciate this American Tourister product. Key positives include excellent durability and smooth 360 wheels. Common concerns revolve around heavy and limited color options at lower price.",
+    "complaint_themes": [
+      "Heavy",
+      "Limited color options at lower price"
+    ],
+    "appreciation_themes": [
+      "Excellent durability",
+      "Smooth 360 wheels"
+    ],
+    "trust_score": 76.8,
+    "aspects": {
+      "wheels": 1.0,
+      "handle": 0.59,
+      "material": 0.96,
+      "zipper": 0.9,
+      "size_space": 0.53,
+      "durability": 0.87
+    },
+    "category": "Small",
+    "size": "55cm / 20in"
+  },
+  {
+    "asin": "B0T3G2QZW3",
+    "title": "American Tourister ABS Cabin Luggage Trolley Bag 50cm - Blue",
+    "brand": "American Tourister",
+    "price": 7112,
+    "list_price": 9200,
+    "discount_pct": 22.7,
+    "rating": 4.0,
+    "review_count": 405,
+    "sentiment_score": 0.44,
+    "review_synthesis": "Customers generally appreciate this American Tourister product. Key positives include premium material and excellent durability. Common concerns revolve around high price point and heavy.",
+    "complaint_themes": [
+      "High price point",
+      "Heavy"
+    ],
+    "appreciation_themes": [
+      "Premium material",
+      "Excellent durability"
+    ],
+    "trust_score": 57.5,
+    "aspects": {
+      "wheels": 1.0,
+      "handle": 0.72,
+      "material": 0.75,
+      "zipper": 0.65,
+      "size_space": 0.4,
+      "durability": 0.67
+    },
+    "category": "Cabin",
+    "size": "50cm / 18in"
+  },
+  {
+    "asin": "B02POP8MGY",
+    "title": "Nasher Miles Polypropylene Cabin Luggage Trolley Bag 75cm - Blue",
+    "brand": "Nasher Miles",
+    "price": 5216,
+    "list_price": 6800,
+    "discount_pct": 23.3,
+    "rating": 4.3,
+    "review_count": 447,
+    "sentiment_score": 0.85,
+    "review_synthesis": "Customers generally appreciate this Nasher Miles product. Key positives include premium look and feel and hard shell durability. Common concerns revolve around scratches easily on hard shell and very expensive.",
+    "complaint_themes": [
+      "Scratches easily on hard shell",
+      "Very expensive"
+    ],
+    "appreciation_themes": [
+      "Premium look and feel",
+      "Hard shell durability"
+    ],
+    "trust_score": 69.7,
+    "aspects": {
+      "wheels": 0.88,
+      "handle": 0.97,
+      "material": 0.7,
+      "zipper": 0.96,
+      "size_space": 1.0,
+      "durability": 0.74
+    },
+    "category": "Cabin",
+    "size": "75cm / 28in"
+  },
+  {
+    "asin": "B0B5M9J98C",
+    "title": "Nasher Miles Hard Shell ABS+PC Medium Luggage Trolley Bag 55cm - Navy",
+    "brand": "Nasher Miles",
+    "price": 4008,
+    "list_price": 4800,
+    "discount_pct": 16.5,
+    "rating": 4.6,
+    "review_count": 340,
+    "sentiment_score": 0.62,
+    "review_synthesis": "Customers generally appreciate this Nasher Miles product. Key positives include tsa-approved locks and hard shell durability. Common concerns revolve around scratches easily on hard shell and limited service centers.",
+    "complaint_themes": [
+      "Scratches easily on hard shell",
+      "Limited service centers"
+    ],
+    "appreciation_themes": [
+      "TSA-approved locks",
+      "Hard shell durability"
+    ],
+    "trust_score": 80.5,
+    "aspects": {
+      "wheels": 0.72,
+      "handle": 0.68,
+      "material": 0.79,
+      "zipper": 0.88,
+      "size_space": 0.57,
+      "durability": 0.5
+    },
+    "category": "Medium",
+    "size": "55cm / 20in"
+  },
+  {
+    "asin": "B0TOXIE0RN",
+    "title": "Nasher Miles Polycarbonate Medium Luggage Trolley Bag 65cm - Black",
+    "brand": "Nasher Miles",
+    "price": 9576,
+    "list_price": 10700,
+    "discount_pct": 10.5,
+    "rating": 4.9,
+    "review_count": 415,
+    "sentiment_score": 0.76,
+    "review_synthesis": "Customers generally appreciate this Nasher Miles product. Key positives include hard shell durability and premium look and feel. Common concerns revolve around limited service centers and very expensive.",
+    "complaint_themes": [
+      "Limited service centers",
+      "Very expensive"
+    ],
+    "appreciation_themes": [
+      "Hard shell durability",
+      "Premium look and feel"
+    ],
+    "trust_score": 77.5,
+    "aspects": {
+      "wheels": 0.86,
+      "handle": 0.4,
+      "material": 1.0,
+      "zipper": 1.0,
+      "size_space": 0.74,
+      "durability": 0.49
+    },
+    "category": "Medium",
+    "size": "65cm / 24in"
+  },
+  {
+    "asin": "B0ZTKKFZZG",
+    "title": "Nasher Miles Hard Shell ABS+PC Medium Luggage Trolley Bag 75cm - Silver",
+    "brand": "Nasher Miles",
+    "price": 5257,
+    "list_price": 7000,
+    "discount_pct": 24.9,
+    "rating": 4.3,
+    "review_count": 542,
+    "sentiment_score": 0.22,
+    "review_synthesis": "Customers generally have mixed feelings about this Nasher Miles product. Key positives include tsa-approved locks and hard shell durability. Common concerns revolve around limited service centers and scratches easily on hard shell.",
+    "complaint_themes": [
+      "Limited service centers",
+      "Scratches easily on hard shell"
+    ],
+    "appreciation_themes": [
+      "TSA-approved locks",
+      "Hard shell durability"
+    ],
+    "trust_score": 69.5,
+    "aspects": {
+      "wheels": 1.0,
+      "handle": 0.75,
+      "material": 0.82,
+      "zipper": 1.0,
+      "size_space": 0.78,
+      "durability": 0.51
+    },
+    "category": "Medium",
+    "size": "75cm / 28in"
+  },
+  {
+    "asin": "B013C9XQYM",
+    "title": "Nasher Miles Polypropylene Check-in Luggage Trolley Bag 55cm - Black",
+    "brand": "Nasher Miles",
+    "price": 5779,
+    "list_price": 7400,
+    "discount_pct": 21.9,
+    "rating": 4.8,
+    "review_count": 417,
+    "sentiment_score": 0.78,
+    "review_synthesis": "Customers generally appreciate this Nasher Miles product. Key positives include tsa-approved locks and hard shell durability. Common concerns revolve around limited service centers and scratches easily on hard shell.",
+    "complaint_themes": [
+      "Limited service centers",
+      "Scratches easily on hard shell"
+    ],
+    "appreciation_themes": [
+      "TSA-approved locks",
+      "Hard shell durability"
+    ],
+    "trust_score": 90.1,
+    "aspects": {
+      "wheels": 0.76,
+      "handle": 0.16,
+      "material": 0.84,
+      "zipper": 1.0,
+      "size_space": 1.0,
+      "durability": 0.85
+    },
+    "category": "Check-in",
+    "size": "55cm / 20in"
+  },
+  {
+    "asin": "B0EKTSG7FX",
+    "title": "Nasher Miles ABS Check-in Luggage Trolley Bag 65cm - Crimson",
+    "brand": "Nasher Miles",
+    "price": 3410,
+    "list_price": 4400,
+    "discount_pct": 22.5,
+    "rating": 4.1,
+    "review_count": 205,
+    "sentiment_score": 0.54,
+    "review_synthesis": "Customers generally appreciate this Nasher Miles product. Key positives include hard shell durability and premium look and feel. Common concerns revolve around limited service centers and scratches easily on hard shell.",
+    "complaint_themes": [
+      "Limited service centers",
+      "Scratches easily on hard shell"
+    ],
+    "appreciation_themes": [
+      "Hard shell durability",
+      "Premium look and feel"
+    ],
+    "trust_score": 83.8,
+    "aspects": {
+      "wheels": 0.7,
+      "handle": 0.58,
+      "material": 1.0,
+      "zipper": 0.7,
+      "size_space": 1.0,
+      "durability": 0.98
+    },
+    "category": "Check-in",
+    "size": "65cm / 24in"
+  },
+  {
+    "asin": "B0KCCPRHVL",
+    "title": "Nasher Miles Polycarbonate Medium Luggage Trolley Bag 55cm - Red",
+    "brand": "Nasher Miles",
+    "price": 3184,
+    "list_price": 4200,
+    "discount_pct": 24.2,
+    "rating": 4.4,
+    "review_count": 255,
+    "sentiment_score": 0.63,
+    "review_synthesis": "Customers generally appreciate this Nasher Miles product. Key positives include hard shell durability and tsa-approved locks. Common concerns revolve around very expensive and scratches easily on hard shell.",
+    "complaint_themes": [
+      "Very expensive",
+      "Scratches easily on hard shell"
+    ],
+    "appreciation_themes": [
+      "Hard shell durability",
+      "TSA-approved locks"
+    ],
+    "trust_score": 83.7,
+    "aspects": {
+      "wheels": 0.56,
+      "handle": 0.74,
+      "material": 0.51,
+      "zipper": 0.82,
+      "size_space": 0.54,
+      "durability": 0.55
+    },
+    "category": "Medium",
+    "size": "55cm / 20in"
+  },
+  {
+    "asin": "B0GF9Q5RDO",
+    "title": "Nasher Miles Polypropylene Medium Luggage Trolley Bag 50cm - Wine Red",
+    "brand": "Nasher Miles",
+    "price": 9710,
+    "list_price": 11900,
+    "discount_pct": 18.4,
+    "rating": 4.3,
+    "review_count": 313,
+    "sentiment_score": 0.6,
+    "review_synthesis": "Customers generally appreciate this Nasher Miles product. Key positives include premium look and feel and hard shell durability. Common concerns revolve around limited service centers and scratches easily on hard shell.",
+    "complaint_themes": [
+      "Limited service centers",
+      "Scratches easily on hard shell"
+    ],
+    "appreciation_themes": [
+      "Premium look and feel",
+      "Hard shell durability"
+    ],
+    "trust_score": 73.3,
+    "aspects": {
+      "wheels": 0.92,
+      "handle": 0.62,
+      "material": 0.75,
+      "zipper": 1.0,
+      "size_space": 0.87,
+      "durability": 0.81
+    },
+    "category": "Medium",
+    "size": "50cm / 18in"
+  },
+  {
+    "asin": "B0OUHTCS1K",
+    "title": "Nasher Miles Nylon Check-in Luggage Trolley Bag 65cm - Wine Red",
+    "brand": "Nasher Miles",
+    "price": 3836,
+    "list_price": 4300,
+    "discount_pct": 10.8,
+    "rating": 3.8,
+    "review_count": 709,
+    "sentiment_score": 0.81,
+    "review_synthesis": "Customers generally appreciate this Nasher Miles product. Key positives include hard shell durability and tsa-approved locks. Common concerns revolve around scratches easily on hard shell and very expensive.",
+    "complaint_themes": [
+      "Scratches easily on hard shell",
+      "Very expensive"
+    ],
+    "appreciation_themes": [
+      "Hard shell durability",
+      "TSA-approved locks"
+    ],
+    "trust_score": 94.6,
+    "aspects": {
+      "wheels": 0.73,
+      "handle": 0.64,
+      "material": 0.57,
+      "zipper": 1.0,
+      "size_space": 0.72,
+      "durability": 0.77
+    },
+    "category": "Check-in",
+    "size": "65cm / 24in"
+  },
+  {
+    "asin": "B0LWF90KM3",
+    "title": "Nasher Miles Polycarbonate Cabin Luggage Trolley Bag 65cm - Navy",
+    "brand": "Nasher Miles",
+    "price": 7498,
+    "list_price": 9600,
+    "discount_pct": 21.9,
+    "rating": 4.0,
+    "review_count": 813,
+    "sentiment_score": 0.78,
+    "review_synthesis": "Customers generally appreciate this Nasher Miles product. Key positives include hard shell durability and tsa-approved locks. Common concerns revolve around very expensive and limited service centers.",
+    "complaint_themes": [
+      "Very expensive",
+      "Limited service centers"
+    ],
+    "appreciation_themes": [
+      "Hard shell durability",
+      "TSA-approved locks"
+    ],
+    "trust_score": 76.3,
+    "aspects": {
+      "wheels": 1.0,
+      "handle": 0.89,
+      "material": 0.93,
+      "zipper": 0.92,
+      "size_space": 0.75,
+      "durability": 0.98
+    },
+    "category": "Cabin",
+    "size": "65cm / 24in"
+  },
+  {
+    "asin": "B0VGWW4FYB",
+    "title": "Nasher Miles Polycarbonate Medium Luggage Trolley Bag 50cm - Wine Red",
+    "brand": "Nasher Miles",
+    "price": 7111,
+    "list_price": 8900,
+    "discount_pct": 20.1,
+    "rating": 4.8,
+    "review_count": 782,
+    "sentiment_score": 0.39,
+    "review_synthesis": "Customers generally appreciate this Nasher Miles product. Key positives include tsa-approved locks and premium look and feel. Common concerns revolve around limited service centers and very expensive.",
+    "complaint_themes": [
+      "Limited service centers",
+      "Very expensive"
+    ],
+    "appreciation_themes": [
+      "TSA-approved locks",
+      "Premium look and feel"
+    ],
+    "trust_score": 92.9,
+    "aspects": {
+      "wheels": 0.69,
+      "handle": 0.92,
+      "material": 0.52,
+      "zipper": 0.84,
+      "size_space": 0.63,
+      "durability": 0.37
+    },
+    "category": "Medium",
+    "size": "50cm / 18in"
+  }
+]

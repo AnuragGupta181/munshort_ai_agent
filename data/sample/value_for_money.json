@@ -1,0 +1,44 @@
+[
+  {
+    "brand": "Safari",
+    "price_band": "budget",
+    "avg_price": 1235.0,
+    "sentiment_score": 0.27,
+    "value_score": 23.2
+  },
+  {
+    "brand": "Aristocrat",
+    "price_band": "value",
+    "avg_price": 1326.0,
+    "sentiment_score": 0.21,
+    "value_score": 17.8
+  },
+  {
+    "brand": "Skybags",
+    "price_band": "midrange",
+    "avg_price": 2726.0,
+    "sentiment_score": 0.25,
+    "value_score": 17.3
+  },
+  {
+    "brand": "VIP",
+    "price_band": "midrange",
+    "avg_price": 2994.0,
+    "sentiment_score": 0.32,
+    "value_score": 21.1
+  },
+  {
+    "brand": "American Tourister",
+    "price_band": "premium",
+    "avg_price": 5464.0,
+    "sentiment_score": 0.31,
+    "value_score": 11.8
+  },
+  {
+    "brand": "Nasher Miles",
+    "price_band": "premium",
+    "avg_price": 5871.0,
+    "sentiment_score": 0.4,
+    "value_score": 13.3
+  }
+]

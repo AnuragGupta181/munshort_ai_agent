@@ -1,0 +1,34 @@
+{
+  "brands": [
+    "American Tourister",
+    "Aristocrat",
+    "Nasher Miles",
+    "Safari",
+    "Skybags",
+    "VIP"
+  ],
+  "price_range": {
+    "min": 792,
+    "max": 9710
+  },
+  "rating_range": {
+    "min": 3.2,
+    "max": 4.9
+  },
+  "categories": [
+    "Cabin",
+    "Check-in",
+    "Medium",
+    "Small"
+  ],
+  "sizes": [
+    "50cm / 18in",
+    "55cm / 20in",
+    "65cm / 24in",
+    "75cm / 28in"
+  ],
+  "sentiment_range": {
+    "min": -0.09,
+    "max": 1.0
+  }
+}

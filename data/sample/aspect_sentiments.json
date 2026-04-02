@@ -1,0 +1,56 @@
+[
+  {
+    "brand": "Safari",
+    "wheels": -0.01,
+    "handle": 0.3,
+    "material": 0.04,
+    "zipper": 0.06,
+    "size_space": 0.33,
+    "durability": 0.35
+  },
+  {
+    "brand": "Aristocrat",
+    "wheels": 0.11,
+    "handle": 0.04,
+    "material": -0.1,
+    "zipper": -0.06,
+    "size_space": 0.38,
+    "durability": 0.35
+  },
+  {
+    "brand": "Skybags",
+    "wheels": 0.71,
+    "handle": 0.24,
+    "material": 0.68,
+    "zipper": 0.43,
+    "size_space": 0.45,
+    "durability": 0.47
+  },
+  {
+    "brand": "VIP",
+    "wheels": 0.68,
+    "handle": 0.36,
+    "material": 0.43,
+    "zipper": 0.45,
+    "size_space": 0.36,
+    "durability": 0.34
+  },
+  {
+    "brand": "American Tourister",
+    "wheels": 0.88,
+    "handle": 0.67,
+    "material": 0.81,
+    "zipper": 0.79,
+    "size_space": 0.62,
+    "durability": 0.66
+  },
+  {
+    "brand": "Nasher Miles",
+    "wheels": 0.8,
+    "handle": 0.67,
+    "material": 0.77,
+    "zipper": 0.92,
+    "size_space": 0.78,
+    "durability": 0.69
+  }
+]

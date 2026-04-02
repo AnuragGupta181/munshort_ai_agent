@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Safari",
+    "slug": "safari",
+    "product_count": 12,
+    "review_count": 101,
+    "avg_price": 1235.0,
+    "avg_discount": 44.5,
+    "avg_rating": 4.0,
+    "sentiment_score": 0.27,
+    "sentiment_label": "neutral",
+    "top_pros": [
+      "Affordable pricing",
+      "Lightweight design",
+      "Good color options"
+    ],
+    "top_cons": [
+      "Zipper quality issues",
+      "Wheels break easily",
+      "Thin material"
+    ],
+    "price_band": "budget",
+    "aspect_scores": {
+      "wheels": -0.01,
+      "handle": 0.3,
+      "material": 0.04,
+      "zipper": 0.06,
+      "size_space": 0.33,
+      "durability": 0.35
+    }
+  },
+  {
+    "name": "Aristocrat",
+    "slug": "aristocrat",
+    "product_count": 10,
+    "review_count": 86,
+    "avg_price": 1326.0,
+    "avg_discount": 51.2,
+    "avg_rating": 3.9,
+    "sentiment_score": 0.21,
+    "sentiment_label": "neutral",
+    "top_pros": [
+      "Budget-friendly",
+      "Decent storage space",
+      "Lightweight"
+    ],
+    "top_cons": [
+      "Handle durability",
+      "Zipper breaks after few uses",
+      "Material tears easily"
+    ],
+    "price_band": "value",
+    "aspect_scores": {
+      "wheels": 0.11,
+      "handle": 0.04,
+      "material": -0.1,
+      "zipper": -0.06,
+      "size_space": 0.38,
+      "durability": 0.35
+    }
+  },
+  {
+    "name": "Skybags",
+    "slug": "skybags",
+    "product_count": 10,
+    "review_count": 84,
+    "avg_price": 2726.0,
+    "avg_discount": 32.4,
+    "avg_rating": 4.1,
+    "sentiment_score": 0.25,
+    "sentiment_label": "neutral",
+    "top_pros": [
+      "Trendy designs",
+      "Smooth wheels",
+      "Good build quality"
+    ],
+    "top_cons": [
+      "Slightly overpriced",
+      "Handle gets loose",
+      "Limited warranty service"
+    ],
+    "price_band": "midrange",
+    "aspect_scores": {
+      "wheels": 0.71,
+      "handle": 0.24,
+      "material": 0.68,
+      "zipper": 0.43,
+      "size_space": 0.45,
+      "durability": 0.47
+    }
+  },
+  {
+    "name": "VIP",
+    "slug": "vip",
+    "product_count": 12,
+    "review_count": 118,
+    "avg_price": 2994.0,
+    "avg_discount": 38.1,
+    "avg_rating": 4.0,
+    "sentiment_score": 0.32,
+    "sentiment_label": "positive",
+    "top_pros": [
+      "Trusted brand",
+      "Sturdy build",
+      "Good wheel quality"
+    ],
+    "top_cons": [
+      "Heavy weight",
+      "Expensive for features",
+      "Dull designs"
+    ],
+    "price_band": "midrange",
+    "aspect_scores": {
+      "wheels": 0.68,
+      "handle": 0.36,
+      "material": 0.43,
+      "zipper": 0.45,
+      "size_space": 0.36,
+      "durability": 0.34
+    }
+  },
+  {
+    "name": "American Tourister",
+    "slug": "american-tourister",
+    "product_count": 12,
+    "review_count": 98,
+    "avg_price": 5464.0,
+    "avg_discount": 23.8,
+    "avg_rating": 4.3,
+    "sentiment_score": 0.31,
+    "sentiment_label": "positive",
+    "top_pros": [
+      "Excellent durability",
+      "Premium material",
+      "Smooth 360 wheels"
+    ],
+    "top_cons": [
+      "High price point",
+      "Heavy",
+      "Limited color options at lower price"
+    ],
+    "price_band": "premium",
+    "aspect_scores": {
+      "wheels": 0.88,
+      "handle": 0.67,
+      "material": 0.81,
+      "zipper": 0.79,
+      "size_space": 0.62,
+      "durability": 0.66
+    }
+  },
+  {
+    "name": "Nasher Miles",
+    "slug": "nasher-miles",
+    "product_count": 11,
+    "review_count": 108,
+    "avg_price": 5871.0,
+    "avg_discount": 19.3,
+    "avg_rating": 4.4,
+    "sentiment_score": 0.4,
+    "sentiment_label": "positive",
+    "top_pros": [
+      "Premium look and feel",
+      "Hard shell durability",
+      "TSA-approved locks"
+    ],
+    "top_cons": [
+      "Very expensive",
+      "Scratches easily on hard shell",
+      "Limited service centers"
+    ],
+    "price_band": "premium",
+    "aspect_scores": {
+      "wheels": 0.8,
+      "handle": 0.67,
+      "material": 0.77,
+      "zipper": 0.92,
+      "size_space": 0.78,
+      "durability": 0.69
+    }
+  }
+]
