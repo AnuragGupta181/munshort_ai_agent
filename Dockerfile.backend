@@ -7,23 +7,28 @@ WORKDIR /app
 RUN apt-get update && apt-get install -y \
     wget \
     gnupg \
+    curl \
     && rm -rf /var/lib/apt/lists/*
 
-# Install Playwright browsers
-ENV PLAYWRIGHT_BROWSERS_PATH=/ms-playwright
-RUN playwright install chromium --with-deps
-
-# Install Python dependencies
+# Copy dependency files first
 COPY pyproject.toml .
+
+# Install uv
 RUN pip install --no-cache-dir uv
+
+# Install Python dependencies (includes playwright)
 RUN uv pip install --system -e .
+
+# Now install Playwright browsers (AFTER installing playwright)
+ENV PLAYWRIGHT_BROWSERS_PATH=/ms-playwright
+RUN python -m playwright install chromium --with-deps
 
 # Copy application code
 COPY backend/ ./backend/
 COPY data/ ./data/
 COPY scripts/ ./scripts/
 
-# Set environment variables
+# Environment variables
 ENV PYTHONPATH=/app
 ENV DATA_DIR=/app/data/processed
 ENV SAMPLE_DATA_DIR=/app/data/sample
@@ -35,5 +40,5 @@ EXPOSE 8000
 HEALTHCHECK --interval=30s --timeout=10s --start-period=5s --retries=3 \
     CMD python -c "import httpx; httpx.get('http://localhost:8000/api/health')" || exit 1
 
-# Run the application
+# Run application
 CMD ["uvicorn", "backend.app:app", "--host", "0.0.0.0", "--port", "8000"]
